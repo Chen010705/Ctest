@@ -15,4 +15,4 @@ int main(void)
     printf("sum=%.2f\n",sum);
 
     return 0;
-}
+}/*P29*/
