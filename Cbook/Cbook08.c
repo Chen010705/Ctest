@@ -12,4 +12,4 @@ int main(void)
     printf("Sum of numbers form 1 to %d is %d\n",n,sum);
 
     return 0;
-}
+}/*P035*/
