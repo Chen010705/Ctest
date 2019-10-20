@@ -2,7 +2,7 @@
 int main(void)
 {
     double radius,PI,volume;
-    
+
     radius = 3;
     PI =3.141592;
     volume = 4/3*PI * radius*radius*radius;
