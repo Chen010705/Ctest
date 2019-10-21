@@ -1,11 +1,14 @@
 #include<stdio.h>
+#include<stdio.h>
 int main(void)
 {
-    double radius,PI,volume;
+    int radius,r3;
+    double PI,volume;
     
-    radius = 3;
+    scanf("%d",&radius);
     PI =3.141592;
-    volume = 4/3*PI * radius*radius*radius;
+    r3 =pow(radius,3);
+    volume = 4/3*PI * r3;
     printf("Volume is %f!\n",volume);
 
     return 0;
