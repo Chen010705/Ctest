@@ -8,7 +8,8 @@ int main(void)
     printf("Enter %d marks:", n);
     scanf("%d", &mark);
     max = mark;
-    for (i = 1; i <= n; i++){
+    for (i = 1; i < n; i++)
+    {
         scanf("%d", &mark);
         if (max < mark)
             max = mark;
@@ -16,4 +17,4 @@ int main(void)
     printf("Max = %d\n", max);
 
     return 0;
-}/*P083*/
+} /*P083*/
