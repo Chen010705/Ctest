@@ -15,7 +15,7 @@ int main(void)
         num++;
         if(grade<60)
         count++;
-        scanf("lf",&grade);
+        scanf("%lf",&grade);
     }
     if(num!=0){
         printf("Grade average is %.2f\n",total/num);
@@ -25,4 +25,4 @@ int main(void)
     printf("Grade average is 0\n");
 
     return 0;
-}
+}/*P071*/
