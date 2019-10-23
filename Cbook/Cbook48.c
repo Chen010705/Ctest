@@ -10,7 +10,7 @@ int main(void)
         if(ch>='A'&&ch<='Z')
         ch=ch-'A'+'a';
         else if(ch>='a'&&ch<='z')
-        ch=ch-'a'&&ch<='z';
+        ch=ch-'a'+'A';
         putchar (ch);
         ch=getchar();
     }
