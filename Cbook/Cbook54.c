@@ -5,7 +5,7 @@ int main(void)
     int count[9];
     for (i = 1; i <= 8; i++)
         count[i] = 0;
-    for (i = 1; i <= 1000; i++)
+    for (i = 1; i <= 10; i++)
     {
         printf("Enter your response:");
         scanf("%d", &response);
