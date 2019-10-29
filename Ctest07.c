@@ -2,7 +2,7 @@
 int main(void)
 {
     float celsius,fahr;
-
+    printf("Enter fahr:");
     scanf("%f",&fahr);
 
     celsius=5*(fahr-32)/9;
