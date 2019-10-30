@@ -1,13 +1,13 @@
 #include <stdio.h>
 int main(void)
 {
-    int a, b, c, d;
-    double e, f;
+    int a, b, c, d, sum;
+    double average;
     printf("输入四个整数：");
     scanf("%d,%d,%d,%d", &a, &b, &c, &d);
-    f = a + b + c + d;
-    e = f / 4.0;
-    printf("%.1f", e);
-
+    sum = a + b + c + d;
+    average = sum / 4.0;
+    printf("sum = %d,average = %.1f", sum, average);
+    
     return 0;
 }
