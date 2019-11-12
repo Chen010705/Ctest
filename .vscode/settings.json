@@ -2,6 +2,7 @@
     "files.associations": {
         "LLK.C": "cpp",
         "Ctest02.C": "cpp",
-        "JRH.C": "cpp"
+        "JRH.C": "cpp",
+        "stdio.h": "c"
     }
 }

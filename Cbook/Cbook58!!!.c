@@ -13,4 +13,4 @@ int day_of_year(int year,int month,int day)
     day=day+tab[leap][k];
 
     return day;
-}/*æœªè°ƒç”¨å‡½æ•°*/
+}/*Î´µ÷ÓÃº¯Êı*/
