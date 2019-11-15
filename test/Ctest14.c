@@ -3,7 +3,7 @@ int main(void)
 {
     char c;
 
-    for(c='z';c>='a';c--)
+    for(c='Z';c>='A';c--)
     {
         printf("%c ",c);
     }
