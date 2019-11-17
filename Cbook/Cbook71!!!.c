@@ -19,4 +19,4 @@ void encrypt(char *s)
             *s = 'a';
         else
             *s = *s + 1;
-}/*P200*/
+} /*P200*/
