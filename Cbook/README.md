@@ -1,5 +1,5 @@
 # Ctest01
-## ä»Šå¤©æˆ‘ä¸Šäº†ä¸€æ¬¡Cè¯­è¨€è¯¾
+## ½ñÌìÎÒÉÏÁËÒ»´ÎCÓïÑÔ¿Î
 
-æ‰“å¼€ï¼šæ–‡ä»¶>é¦–é€‰é¡¹>è®¾ç½®ï¼Œæ‰¾åˆ°Run Code Configuration,æ‰¾åˆ°code-runner.runInTerminalï¼Œå°†æ­¤å€¼æ”¹ä¸ºtrueï¼Œå°±å¯ä»¥è¾“å…¥Xçš„å€¼äº†
+´ò¿ª£ºÎÄ¼ş>Ê×Ñ¡Ïî>ÉèÖÃ£¬ÕÒµ½Run Code Configuration,ÕÒµ½code-runner.runInTerminal£¬½«´ËÖµ¸ÄÎªtrue£¬¾Í¿ÉÒÔÊäÈëXµÄÖµÁË
 code runner run in terminal
