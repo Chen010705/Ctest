@@ -72,4 +72,4 @@ int update_score(struct student *p, int n, int num, int course, int score)
     else
         pos = -1;
     return pos;
-}//P227~P229
+} //P227~P229
