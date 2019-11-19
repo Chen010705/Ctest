@@ -33,14 +33,15 @@ void output_student(struct student students[])
         printf("Count of students is zero!\n");
         return;
     }
-    printf("num\t name\t math\t english\t computer\t average\n");
+    printf("num\tname   math  english computer  average\n");
     for (i = 0; i < Count; i++)
     {
-        printf("%d\t", students[i].num);
-        printf("%s\t", students[i].name);
-        printf("%d\t", students[i].math);
-        printf("%d\t", students[i].english);
-        printf("%d\t", students[i].computer);
-        printf("%f\t", students[i].average);
+        printf("%-8d", students[i].num);
+        printf("%-8s", students[i].name);
+        printf("%-8d", students[i].math);
+        printf("%-8d", students[i].english);
+        printf("%-8d", students[i].computer);
+        printf("%-.2f", students[i].average);
+        printf("\n");
     }
 }
