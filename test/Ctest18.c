@@ -7,9 +7,7 @@ int is_prime(int i, int j)
             if (i % j == 0)
                 break;
             else
-            {
                 continue;
-            }
         else
             return 1;
     }
@@ -18,13 +16,13 @@ int is_prime(int i, int j)
 int main()
 {
     int i, j, Count = 0;
-    for (i = 2; i < 500; i++)
+    for (i = 2; i < 100; i++)
     {
         if (is_prime(i, j) == 1)
         {
-            printf("%d ", i);
+            printf("%5d ", i);
             Count++;
-            if (Count % 10 == 0)
+            if (Count % 5 == 0)
             printf("\n");
         }
     }
