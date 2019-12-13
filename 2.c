@@ -23,8 +23,6 @@ int main()
     case 5:
         sort(score, N);
         break;
-    case 0:
-        break;
     default:
         break;
     }
