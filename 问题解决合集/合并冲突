@@ -1,0 +1,11 @@
+方法一：
+在终端依次输入：
+git merge --abort
+git reset --merge
+git pull
+
+方法二：
+在终端依次输入：
+git fetch --all
+git reset --hard origin/master
+git fetch

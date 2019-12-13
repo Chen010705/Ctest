@@ -1,0 +1,11 @@
+文件>首选项>设置
+设置搜索encoding
+找到Auto Guess Encoding
+将此值改为true(打勾)
+找到Encoding
+Encoding系统默认是UTF-8 更改为gb2312
+这样就能自动识别中文字符了
+检查代码界面里右下角是否有显示GB2312
+如果仍是UTF-8 
+点击UTF-8选择编码→通过编码重新打开（reopen with Encoding）
+选择gb2312

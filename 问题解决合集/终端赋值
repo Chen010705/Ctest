@@ -1,0 +1,5 @@
+打开：文件>首选项>设置，
+找到Run Code Configuration,
+找到code-runner.runInTerminal，
+将此值改为true(打勾)，就可以输入值了
+code runner run in terminal
