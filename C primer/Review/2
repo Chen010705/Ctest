@@ -1,0 +1,35 @@
+1.C语言的基本模块是函数
+
+2.语法错误违反了组成语句或程序的规则
+
+3.语义错误是指含义错误
+
+4.#include<stdio.h>
+int main(void)
+{
+    int s;
+
+    s=52;
+    printf("There are %d weeks in a year.\n",s);
+
+    return 0;
+}
+
+5.Baa Baa Black Sheep.Have you any wool?
+Begone!
+O creature of lard!
+What?
+No/nfish?
+2 + 2 = 4;
+
+6.int,char
+
+7.printf("There were %d words and %d lines.\n",words,lines);
+
+8.a=5 b=2;
+a=b=5;
+a=b=5;
+
+9.x=10 y=5;
+x=10 y=15;
+x=150 y=15;
